@@ -1,0 +1,78 @@
+c:\users\michael\documents\visual studio 2015\Projects\期中專題\期中專題\bin\Debug\期中專題.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\期中專題\期中專題\bin\Debug\期中專題.exe
+c:\users\michael\documents\visual studio 2015\Projects\期中專題\期中專題\bin\Debug\期中專題.pdb
+c:\users\michael\documents\visual studio 2015\Projects\期中專題\期中專題\obj\Debug\期中專題.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2015\Projects\期中專題\期中專題\obj\Debug\期中專題.Form1.resources
+c:\users\michael\documents\visual studio 2015\Projects\期中專題\期中專題\obj\Debug\期中專題.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2015\Projects\期中專題\期中專題\obj\Debug\期中專題.學生資料.resources
+c:\users\michael\documents\visual studio 2015\Projects\期中專題\期中專題\obj\Debug\期中專題.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2015\Projects\期中專題\期中專題\obj\Debug\期中專題.exe
+c:\users\michael\documents\visual studio 2015\Projects\期中專題\期中專題\obj\Debug\期中專題.pdb
+C:\Users\Michael\documents\visual studio 2015\Projects\期中專題\期中專題\obj\Debug\期中專題.店家資料.resources
+C:\Users\iii\Google 雲端硬碟\資策會\期中專題\期中專題\bin\Debug\期中專題.exe.config
+C:\Users\iii\Google 雲端硬碟\資策會\期中專題\期中專題\obj\Debug\期中專題.exe
+C:\Users\iii\Google 雲端硬碟\資策會\期中專題\期中專題\obj\Debug\期中專題.pdb
+C:\Users\iii\Google 雲端硬碟\資策會\期中專題\期中專題\bin\Debug\期中專題.exe
+C:\Users\iii\Google 雲端硬碟\資策會\期中專題\期中專題\bin\Debug\期中專題.pdb
+C:\Users\iii\Google 雲端硬碟\資策會\期中專題\期中專題\obj\Debug\期中專題.csprojResolveAssemblyReference.cache
+C:\Users\iii\Google 雲端硬碟\資策會\期中專題\期中專題\obj\Debug\期中專題.Form1.resources
+C:\Users\iii\Google 雲端硬碟\資策會\期中專題\期中專題\obj\Debug\期中專題.Properties.Resources.resources
+C:\Users\iii\Google 雲端硬碟\資策會\期中專題\期中專題\obj\Debug\期中專題.學生資料.resources
+C:\Users\iii\Google 雲端硬碟\資策會\期中專題\期中專題\obj\Debug\期中專題.店家資料.resources
+C:\Users\iii\Google 雲端硬碟\資策會\期中專題\期中專題\obj\Debug\期中專題.csproj.GenerateResource.Cache
+C:\Users\Michael\Google 雲端硬碟\資策會\期中專題\期中專題\bin\Debug\期中專題.exe.config
+C:\Users\Michael\Google 雲端硬碟\資策會\期中專題\期中專題\obj\Debug\期中專題.exe
+C:\Users\Michael\Google 雲端硬碟\資策會\期中專題\期中專題\obj\Debug\期中專題.pdb
+C:\Users\Michael\Google 雲端硬碟\資策會\期中專題\期中專題\bin\Debug\期中專題.exe
+C:\Users\Michael\Google 雲端硬碟\資策會\期中專題\期中專題\bin\Debug\期中專題.pdb
+C:\Users\Michael\Google 雲端硬碟\資策會\期中專題\期中專題\obj\Debug\期中專題.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Google 雲端硬碟\資策會\期中專題\期中專題\obj\Debug\期中專題.Form1.resources
+C:\Users\Michael\Google 雲端硬碟\資策會\期中專題\期中專題\obj\Debug\期中專題.Properties.Resources.resources
+C:\Users\Michael\Google 雲端硬碟\資策會\期中專題\期中專題\obj\Debug\期中專題.學生資料.resources
+C:\Users\Michael\Google 雲端硬碟\資策會\期中專題\期中專題\obj\Debug\期中專題.店家資料.resources
+C:\Users\Michael\Google 雲端硬碟\資策會\期中專題\期中專題\obj\Debug\期中專題.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\期中專題\期中專題\obj\Debug\期中專題.Form2.resources
+E:\期中專題\期中專題\bin\Debug\期中專題.exe.config
+E:\期中專題\期中專題\obj\Debug\期中專題.exe
+E:\期中專題\期中專題\obj\Debug\期中專題.pdb
+E:\期中專題\期中專題\bin\Debug\期中專題.exe
+E:\期中專題\期中專題\bin\Debug\期中專題.pdb
+E:\期中專題\期中專題\obj\Debug\期中專題.csprojResolveAssemblyReference.cache
+E:\期中專題\期中專題\obj\Debug\期中專題.form1.resources
+E:\期中專題\期中專題\obj\Debug\期中專題.Form2.resources
+E:\期中專題\期中專題\obj\Debug\期中專題.Properties.Resources.resources
+E:\期中專題\期中專題\obj\Debug\期中專題.學生資料.resources
+E:\期中專題\期中專題\obj\Debug\期中專題.店家資料.resources
+E:\期中專題\期中專題\obj\Debug\期中專題.csproj.GenerateResource.Cache
+F:\期中專題\期中專題\bin\Debug\期中專題.exe.config
+F:\期中專題\期中專題\obj\Debug\期中專題.exe
+F:\期中專題\期中專題\obj\Debug\期中專題.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\期中專題\期中專題\obj\Debug\期中專題.櫃台.resources
+E:\期中專題\期中專題\obj\Debug\期中專題.櫃台.resources
+F:\期中專題\期中專題\bin\Debug\期中專題.exe
+F:\期中專題\期中專題\bin\Debug\期中專題.pdb
+F:\期中專題\期中專題\obj\Debug\期中專題.csprojResolveAssemblyReference.cache
+F:\期中專題\期中專題\obj\Debug\期中專題.form1.resources
+F:\期中專題\期中專題\obj\Debug\期中專題.Form2.resources
+F:\期中專題\期中專題\obj\Debug\期中專題.Properties.Resources.resources
+F:\期中專題\期中專題\obj\Debug\期中專題.學生資料.resources
+F:\期中專題\期中專題\obj\Debug\期中專題.店家資料.resources
+F:\期中專題\期中專題\obj\Debug\期中專題.櫃台.resources
+F:\期中專題\期中專題\obj\Debug\期中專題.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\期中專題\期中專題\obj\Debug\期中專題.值日生.resources
+E:\期中專題\期中專題\obj\Debug\期中專題.值日生.resources
+F:\期中專題\期中專題\obj\Debug\期中專題.值日生.resources
+D:\期中專題\期中專題\bin\Debug\期中專題.exe.config
+D:\期中專題\期中專題\obj\Debug\期中專題.exe
+D:\期中專題\期中專題\obj\Debug\期中專題.pdb
+D:\期中專題\期中專題\bin\Debug\期中專題.exe
+D:\期中專題\期中專題\bin\Debug\期中專題.pdb
+D:\期中專題\期中專題\obj\Debug\期中專題.csprojResolveAssemblyReference.cache
+D:\期中專題\期中專題\obj\Debug\期中專題.form1.resources
+D:\期中專題\期中專題\obj\Debug\期中專題.Form2.resources
+D:\期中專題\期中專題\obj\Debug\期中專題.Properties.Resources.resources
+D:\期中專題\期中專題\obj\Debug\期中專題.值日生.resources
+D:\期中專題\期中專題\obj\Debug\期中專題.學生資料.resources
+D:\期中專題\期中專題\obj\Debug\期中專題.店家資料.resources
+D:\期中專題\期中專題\obj\Debug\期中專題.櫃台.resources
+D:\期中專題\期中專題\obj\Debug\期中專題.csproj.GenerateResource.Cache
